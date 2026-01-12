@@ -515,7 +515,7 @@ X-RateLimit-Reset: 1704891600
 
 ## Changelog
 
-### v1.0.0 (January 2025)
+### v1.0.0 (January 2026)
 - Initial release
 - Crypto price resolution
 - News search integration
