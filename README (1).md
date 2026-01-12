@@ -2,7 +2,7 @@
 
 **The Decentralized Prediction Market Resolution Engine**
 
-*Powered by Claude AI | Built for Solana*
+Built for Solana*
 
 ---
 
