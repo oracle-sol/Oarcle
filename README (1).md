@@ -2,7 +2,7 @@
 
 **The Decentralized Prediction Market Resolution Engine**
 
-Built for Solana*
+Built for Solana
 
 ---
 
